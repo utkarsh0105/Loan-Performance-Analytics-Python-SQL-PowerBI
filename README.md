@@ -127,4 +127,15 @@ Loan-Performance-Analytics/
 Successfully transformed raw loan data into an interactive business intelligence solution, enabling stakeholders to monitor loan performance, 
 identify high-risk segments, and support data-driven decision-making.
 
+## Overview
+
+<img width="2420" height="1825" alt="dashboard_page1" src="https://github.com/user-attachments/assets/2fb2ffff-2241-495f-879e-eb18a3fdc369" />
+
+## Risk & Credit Analysis
+
+<img width="2420" height="1825" alt="dashboard_page3" src="https://github.com/user-attachments/assets/8059efff-5450-4f01-a0d6-b3a57246a716" />
+
+## Repayment Insights
+
+<img width="2420" height="1825" alt="dashboard_page2" src="https://github.com/user-attachments/assets/d91cbb50-5aac-45ba-9205-6ad5dc60da5d" />
 
